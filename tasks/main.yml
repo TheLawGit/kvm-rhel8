@@ -4,4 +4,4 @@
 #- include: registration.yml
 #- include: install.yml
 #- include: template.yml
-- include: create_vm.yml
+- include_tasks: create_vm.yml
