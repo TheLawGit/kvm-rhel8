@@ -6,4 +6,4 @@
     - vars/main.yml
   remote_user: root
   tasks:
-    - include: tasks/main.yml
+    - include_tasks: tasks/main.yml
